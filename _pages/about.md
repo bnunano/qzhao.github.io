@@ -17,42 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+From 2010 to now, I am an assistant professor in the School of Nuclear and Engineering at North China Electric Power University in Beijing, China. In 2014.10-2014.12, I was a visiting scholar in the Goethe University following the implementation plan for the Marie Curie People International Research Staff Exchange program invited by Prof. Dr. Andrey Solov’yov.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My interests are in nuclear science and nanoscience including: fission and fusion reactor materials; neutron and charged particle radiation effects in materials; microdosimetry; graphene; fullerene. The objective is to explain and predict the properties of materials using first-principles theories, molecular dynamics, Monte Carlo methods and computation. I have published more than 50 papers with total <a href='https://scholar.google.com/citations?user=AT3JRp8AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=AT3JRp8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎉🎉 One paper are published on Mathematical and Computational Applications. 
+- *2023.03*: &nbsp;🎉🎉 One paper are published on RSC Advances. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+2018:
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[19] Qiang Zhao*, Zheng Zhang, Xiaoping Ouyang.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+"A Density Functional Theory Study on the Diffusion of Fission Gas Atoms in Uranium Dioxide."
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Journal of Nuclear Engineering and Radiation Science 4(3), 034503 (2018).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+ 
+
+[18] H. Shen, Q. Zhao, F. S. Zhang*, Gennady B. Sushko, Andrei V. Korol*, and Andrey V. Solov’yov*.
+
+"Channeling and radiation of 855 MeV electrons and positrons in straight and bent tungsten (110) crystals."
+
+Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 424 (2018): 26-36.
+
+ 
+
+[17] Qiang Zhao*, Zheng Zhang, Xiaoping Ouyang.
+
+"Adsorption of radionuclides on the monolayer MoS2."
+
+Materials research Express 5(4), 045506 (2018).
+
+ 
+
+[16] Xinghao Liang, Yang Li, Qiang Zhao*, Zheng Zhang , Xiaoping Ouyang*.
+
+"Effect of Carbon Concentration on the Sputtering of Carbon-Rich SiC Bombarded by Helium Ions."
+
+Computation 6(1), 19 (2018).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* . 
+- *2021.09* . 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2007.09 - 2010.06*, Doctor, College of Nuclar Sicence and technology, Beijing Normal University. 
+- *2004.09 - 2007.06*, Master, College of Nuclar Sicence and technology, Beijing Normal University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2021.06*, 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 
